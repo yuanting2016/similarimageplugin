@@ -14,7 +14,8 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    a tool to check two images are similar.<br>
+  it is a good tool to check two images whether are similar.you only input a absolute path and
+ will get result that get all the similar images.<br>
   ]]></description>
 
     <!-- Product and plugin compatibility requirements.

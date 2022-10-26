@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.similarimage.tools"
-version = "1.1-NAPSHOT"
+version = "1.2-NAPSHOT"
 
 repositories {
     mavenCentral()
