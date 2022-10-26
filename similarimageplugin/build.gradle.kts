@@ -3,8 +3,8 @@ plugins {
     id("org.jetbrains.intellij") version "1.8.0"
 }
 
-group = "com.example"
-version = "1.0-SNAPSHOT"
+group = "com.similarimage.tools"
+version = "1.1-NAPSHOT"
 
 repositories {
     mavenCentral()

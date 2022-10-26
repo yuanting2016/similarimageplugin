@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="similarimagetool:test" external.linked.project.path="$MODULE_DIR$/../../similarimageplugin" external.root.project.path="$MODULE_DIR$/../../similarimageplugin" external.system.id="GRADLE" external.system.module.group="com.example" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../similarimageplugin/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../similarimageplugin/src/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="similarimagetool.main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:23.0.0" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: com.jetbrains:ideaIC:2021.3.3">
+        <ANNOTATIONS>
+          <root url="jar://$MAVEN_REPOSITORY$/com/jetbrains/intellij/idea/ideaIU/2021.3.3/ideaIU-2021.3.3-annotations.zip!/" />
+        </ANNOTATIONS>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/3rd-party.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/3rd-party-rt.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-antlr.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-apache-bcel.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-apache-bsf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-apache-log4j.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-apache-oro.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-apache-regexp.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-apache-resolver.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-apache-xalan2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-commons-logging.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-commons-net.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-jai.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-javamail.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-jdepend.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-jmf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-jsch.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-junit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-junit4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-junitlauncher.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-launcher.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-netrexx.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-swing.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-testutil.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/ant/lib/ant-xz.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/asm-7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/asm-analysis-7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/asm-commons-7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/asm-tree-7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/asm-util-7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/async-profiler.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/bootstrap.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/byte-buddy-agent.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/commons-net-3.8.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/dbus-java-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/dom-impl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/dom-openapi.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/duplicates-analysis.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/error-prone-annotations.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/external-system-rt.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/forms_rt.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/grpc-netty-shaded.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/idea.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/idea_rt.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/intellij-coverage-agent-1.0.613.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/intellij-test-discovery.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/java-utils-1.0.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jdkAnnotations.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jffi-1.2.19.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jffi-1.2.19-native.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jna.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jnr-a64asm-1.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jnr-constants-0.9.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jnr-enxio-0.21.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jnr-ffi-2.1.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jnr-posix-3.0.50.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jnr-unixsocket-0.23.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jnr-x86asm-1.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jps-model.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/jsp-base-openapi.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/junit4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/kotlin-reflect.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/kotlin-stdlib-jdk8.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/kotlin-test.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/kotlinx.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/org_codehaus_groovy_groovy.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/org_codehaus_groovy_groovy-json.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/org_codehaus_groovy_groovy-jsr223.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/org_codehaus_groovy_groovy-templates.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/org_codehaus_groovy_groovy-xml.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/platform-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/platform-impl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/platform-objectSerializer-annotations.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/platform-statistics-devkit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/protobuf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/pty4j.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/rd-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/rd-framework.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/rd-swing.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/rd-text.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/stats.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/structuralsearch.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/testFramework.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/testFramework-java.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/testFramework.core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/tests_bootstrap.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/uast-tests.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/util.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-2021.3.3/lib/winp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../../.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2021.3.3/faa3e29dfa0257aa563c7c070b2e180a8cc5360b/ideaIC-2021.3.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="TestModuleProperties" production-module="similarimagetool.main" />
+</module>

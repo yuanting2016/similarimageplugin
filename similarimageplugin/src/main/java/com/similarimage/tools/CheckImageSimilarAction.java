@@ -1,4 +1,5 @@
 package com.similarimage.tools;
+
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.actionSystem.PlatformDataKeys;
@@ -17,26 +18,27 @@ public class CheckImageSimilarAction extends AnAction {
         Project project = e.getData(PlatformDataKeys.PROJECT);
 
         String text = Messages.showInputDialog(project,
-                "请输入待检测文件的绝对路径",
+                "please input absolute path of the file to you want check",
                 "",
                 Messages.getQuestionIcon());
         HashMap<String, ArrayList<String>> result = SimilarImageAlgorithm.checkImage(text);
         writeFile(text, result);
+        Messages.showInfoMessage(project,"check complete"," ");
     }
 
-    private void writeFile (String path, HashMap<String, ArrayList<String>> result) {
-        String filePath = path + File.separator + System.currentTimeMillis()  + ".txt";
+    private void writeFile(String path, HashMap<String, ArrayList<String>> result) {
+        String filePath = path + File.separator + System.currentTimeMillis() + ".txt";
         StringBuilder content = new StringBuilder();
         if (result != null) {
             for (String key : result.keySet()) {
                 ArrayList<String> imageList = result.get(key);
                 if (imageList != null && !imageList.isEmpty()) {
                     StringBuilder similarList = new StringBuilder();
-                    for (String name: imageList) {
+                    for (String name : imageList) {
                         similarList.append(name);
                         similarList.append("\n");
                     }
-                    content.append(key).append("相似的图片有：\n").append(similarList);
+                    content.append(key).append("  similar picture are: ").append(similarList);
                 }
             }
         }
@@ -52,10 +54,10 @@ public class CheckImageSimilarAction extends AnAction {
             e.printStackTrace();
         } finally {
             try {
-                assert fw != null;
-                fw.close();
-            }
-            catch (Exception e) {
+                if (fw != null) {
+                    fw.close();
+                }
+            } catch (Exception e) {
                 e.printStackTrace();
             }
         }
